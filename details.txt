@@ -1,0 +1,3 @@
+name : Adarsh
+discord : jinx.vi
+github : jinx-vi-0
